@@ -1,9 +1,5 @@
-{
- "variables": [
     {
     "service_account_key_file": "service_account_key_file",
 	"folder_id": "folderid",
 	"source_image_family": "imagefamily"
     }
-  ]
-}
