@@ -29,7 +29,7 @@ $ sudo bash setupvpn.sh
 
 # Деплой тестового приложения
 
-testapp_IP = 62.84.113.170
+testapp_IP = 51.250.13.103
 testapp_port = 9292
 
 yc compute instance create \
