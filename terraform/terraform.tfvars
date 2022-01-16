@@ -6,3 +6,4 @@ public_key_path          = "/home/otus/.ssh/ubuntu.pub"
 subnet_id                = "e9bd8knc34h7vn07v1of"
 service_account_key_file = "key.json"
 private_key              = "/home/otus/.ssh/ubuntu"
+
