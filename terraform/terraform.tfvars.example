@@ -1,0 +1,8 @@
+cloud_id="new1"
+folder_id="new2"
+zone="ru-central1-a"
+service_account_key_file="new3"
+image_id="new4"
+subnet_id="new5"
+public_key_path="new6"
+private_key="new7"
