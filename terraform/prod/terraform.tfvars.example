@@ -9,4 +9,3 @@ private_key              = "~/.ssh/ubuntu"
 db_disk_image            = "exemple5"
 app_disk_image           = "exemple6"
 
-
