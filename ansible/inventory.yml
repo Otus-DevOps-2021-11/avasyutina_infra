@@ -9,4 +9,4 @@
   db:
     hosts:
       dbserver:
-        ansible_host: 62.84.119.48
+        ansible_host: 62.84.116.29
