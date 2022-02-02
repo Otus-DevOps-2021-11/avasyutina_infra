@@ -6,4 +6,5 @@ key.json
 *.tfvars
 .terraform/
 *.retry
+jdauphant.nginx
 
