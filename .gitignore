@@ -7,4 +7,5 @@ key.json
 .terraform/
 *.retry
 jdauphant.nginx
+vault.key
 
